@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[spark_testing-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[spark_testing-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'spark_testing-build' to '/Users/Tarin/Documents/Projects/Programming/spark_testing/project/.bloop/spark_testing-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/spark_testing-build.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m[flight-data-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[flight-data-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'flight-data-build' to '/Users/Tarin/Documents/Projects/Programming/flight-data/project/.bloop/flight-data-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/flight-data-build.json[0m

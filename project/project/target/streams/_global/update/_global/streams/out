@@ -1,3 +1,3 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/Tarin/Documents/Projects/Programming/spark_testing/project/project/"), "spark_testing-build-build")...
-[debug] Done updating ProjectRef(uri("file:/Users/Tarin/Documents/Projects/Programming/spark_testing/project/project/"), "spark_testing-build-build")
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/Users/Tarin/Documents/Projects/Programming/flight-data/project/project/"), "flight-data-build-build")...[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/Users/Tarin/Documents/Projects/Programming/flight-data/project/project/"), "flight-data-build-build")[0m

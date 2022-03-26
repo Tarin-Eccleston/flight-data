@@ -1,2 +1,10 @@
-[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Tarin/Documents/Projects/Programming/flight-data/src/main/scala/FlightData.scala:2:24: ';' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark-3.2.1.SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Tarin/Documents/Projects/Programming/flight-data/src/main/scala/FlightData.scala:3:24: ';' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark-3.2.1.SparkContext._[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/Tarin/Documents/Projects/Programming/flight-data/src/main/scala/FlightData.scala:4:24: ';' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark-3.2.1.SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
