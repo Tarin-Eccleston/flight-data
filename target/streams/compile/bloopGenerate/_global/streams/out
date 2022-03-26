@@ -1,0 +1,4 @@
+[debug] [spark_testing] Classpath dependencies List()
+[debug] [spark_testing] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spark_testing' to '/Users/Tarin/Documents/Projects/Programming/spark_testing/.bloop/spark_testing.json'
+[success] Generated .bloop/spark_testing.json

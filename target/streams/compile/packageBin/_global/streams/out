@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/Tarin/Documents/Projects/Programming/spark_testing/target/scala-2.13/flight-data_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlightData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Tarin/Documents/Projects/Programming/spark_testing/target/scala-2.13/classes/FlightData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FlightData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Tarin/Documents/Projects/Programming/spark_testing/target/scala-2.13/classes/FlightData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
